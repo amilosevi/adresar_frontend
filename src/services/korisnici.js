@@ -1,7 +1,7 @@
 	
 import axios from 'axios'
-//const osnovniUrl = 'http://localhost:3002/api/korisnici'
-const osnovniUrl = '/api/korisnici'
+const osnovniUrl = 'https://cryptic-island-66590.herokuapp.com/api/korisnici'
+//const osnovniUrl = '/api/korisnici'
 const dohvatiSve = () => {  
     return axios.get(osnovniUrl);
 }
