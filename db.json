@@ -1,0 +1,14 @@
+{
+  "korisnici": [
+    {
+      "imePrezime": "Ana Milosevic",
+      "email": "amilosevi@pmfst.hr",
+      "id": 3
+    },
+    {
+      "imePrezime": "sfb",
+      "email": "gd",
+      "id": 4
+    }
+  ]
+}
